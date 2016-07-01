@@ -1,7 +1,8 @@
 {
-    "name": "thibaut/exercice",
+    "name": "vendor/thibaut",
+    "description": "Composer pour altorouter et faker",
     "require": {
-        "Altorouter/altorouter": "^1.2",
+        "altorouter/altorouter": "^1.2",
         "fzaninotto/faker": "^1.6"
     }
 }
