@@ -1,5 +1,5 @@
 {
-    "name": "vendor/thibaut",
+    "name": "thibaut/exercice",
     "description": "Composer pour altorouter et faker",
     "require": {
         "altorouter/altorouter": "^1.2",
